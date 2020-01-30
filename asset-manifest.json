@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/time-tracker/static/css/main.98eacdcf.chunk.css",
+    "main.js": "/time-tracker/static/js/main.ae9092f1.chunk.js",
+    "main.js.map": "/time-tracker/static/js/main.ae9092f1.chunk.js.map",
+    "runtime-main.js": "/time-tracker/static/js/runtime-main.edef4bba.js",
+    "runtime-main.js.map": "/time-tracker/static/js/runtime-main.edef4bba.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/time-tracker/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c6b94db6.chunk.js": "/time-tracker/static/js/2.c6b94db6.chunk.js",
+    "static/js/2.c6b94db6.chunk.js.map": "/time-tracker/static/js/2.c6b94db6.chunk.js.map",
+    "static/css/3.09fc0445.chunk.css": "/time-tracker/static/css/3.09fc0445.chunk.css",
+    "static/js/3.5a4b5915.chunk.js": "/time-tracker/static/js/3.5a4b5915.chunk.js",
+    "static/js/3.5a4b5915.chunk.js.map": "/time-tracker/static/js/3.5a4b5915.chunk.js.map",
+    "static/css/4.3c64fbbf.chunk.css": "/time-tracker/static/css/4.3c64fbbf.chunk.css",
+    "static/js/4.f4efafe3.chunk.js": "/time-tracker/static/js/4.f4efafe3.chunk.js",
+    "static/js/4.f4efafe3.chunk.js.map": "/time-tracker/static/js/4.f4efafe3.chunk.js.map",
+    "index.html": "/time-tracker/index.html",
+    "precache-manifest.f7d091df51fd13b3aa3d8d739fc55185.js": "/time-tracker/precache-manifest.f7d091df51fd13b3aa3d8d739fc55185.js",
+    "service-worker.js": "/time-tracker/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/time-tracker/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/3.09fc0445.chunk.css.map": "/time-tracker/static/css/3.09fc0445.chunk.css.map",
+    "static/css/4.3c64fbbf.chunk.css.map": "/time-tracker/static/css/4.3c64fbbf.chunk.css.map",
+    "static/css/main.98eacdcf.chunk.css.map": "/time-tracker/static/css/main.98eacdcf.chunk.css.map",
+    "static/js/2.c6b94db6.chunk.js.LICENSE": "/time-tracker/static/js/2.c6b94db6.chunk.js.LICENSE",
+    "static/media/Logo2.svg": "/time-tracker/static/media/Logo2.1c058bcd.svg",
+    "static/media/styles.module.css": "/time-tracker/static/media/background.45384ca0.png",
+    "static/media/google-icon.svg": "/time-tracker/static/media/google-icon.57f845cc.svg",
+    "static/media/user-icon.svg": "/time-tracker/static/media/user-icon.20c28486.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edef4bba.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c6b94db6.chunk.js",
+    "static/css/main.98eacdcf.chunk.css",
+    "static/js/main.ae9092f1.chunk.js"
+  ]
+}
